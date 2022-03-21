@@ -41,6 +41,14 @@
       "groups": {
         "": "/proxy/api/imgur/chapter/VxFQM0F"
       }
+    },
+    "204": {
+      "title": "Recuerdos...",
+      "volume": "",
+      "last_updated": "1647893155",
+      "groups": {
+        "": "https://imgur.com/a/tkzHijJ"
+      }
     }
   }
 }
