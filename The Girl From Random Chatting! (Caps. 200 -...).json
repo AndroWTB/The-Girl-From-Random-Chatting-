@@ -97,6 +97,30 @@
       "groups": {
         "": "/proxy/api/imgur/chapter/SB6MmHa"
       }
+    },
+    "211": {
+      "title": "Estoy harto",
+      "volume": "",
+      "last_updated": "1647897357",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/vMtTFJZ"
+      }
+    },
+    "212": {
+      "title": "Mi nombre es...",
+      "volume": "",
+      "last_updated": "1647897524",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/EpOzOiN"
+      }
+    },
+    "213": {
+      "title": "A propósito",
+      "volume": "",
+      "last_updated": "1647897500",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/GYBrS6C"
+      }
     }
   }
 }
