@@ -185,6 +185,54 @@
       "groups": {
         "": "/proxy/api/imgur/chapter/bgo0GYS"
       }
+    },
+    "222": {
+      "title": "El mundo no es un lugar donde vives solo",
+      "volume": "",
+      "last_updated": "1647899410",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/ZLKWDBK"
+      }
+    },
+    "223": {
+      "title": "Cómo luchar contra la desgracia",
+      "volume": "",
+      "last_updated": "1647899433",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/YWhdQA6"
+      }
+    },
+    "224": {
+      "title": "Ave",
+      "volume": "",
+      "last_updated": "1647899512",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/eOXFLAx"
+      }
+    },
+    "225": {
+      "title": "Villano",
+      "volume": "",
+      "last_updated": "1647899836",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/9PVBajn"
+      }
+    },
+    "226": {
+      "title": "¿Para quién giran los engranajes?",
+      "volume": "",
+      "last_updated": "1647899977",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/JeFvAp4"
+      }
+    },
+    "227": {
+      "title": "En una dirección impredecible",
+      "volume": "",
+      "last_updated": "1647900883",
+      "groups": {
+        "": ""
+      }
     }
   }
 }
