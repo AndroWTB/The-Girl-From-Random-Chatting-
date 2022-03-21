@@ -4,5 +4,16 @@
   "artist": "Park Eun-Hyuk",
   "author": "Park Eun-Hyuk",
   "cover": "https://i.imgur.com/KD1A39f.jpeg",
-  "chapters": {}
+  "chapters": {
+    "200": {
+      "title": "El mundo es estricto",
+      "volume": "",
+      "last_updated": "1647890282",
+      "groups": {
+        "": [
+          "https://imgur.com/a/sJZ70ja"
+        ]
+      }
+    }
+  }
 }
